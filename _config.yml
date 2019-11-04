@@ -1,11 +1,11 @@
 # Site settings
 author: John Kline
-title: 
+title: Work In Progress
 header-img: img/home-bg.png
 email: johnmkline@gmail.com
 copyright_name: John Kline
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science & Healthcare
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  katahdin28
